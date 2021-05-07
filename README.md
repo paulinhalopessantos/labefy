@@ -26,7 +26,7 @@ Trata-se de uma aplicação que permite criar, listar e deletar playlists.
 ## 🏷 Como baixar e rodar o projeto
 ```Bash
 * Clonar o projeto
-$ git clone https://github.com/paulinhalopessantos/pokedex.git
+$ git clone https://github.com/paulinhalopessantos/labefy.git
 * Entrar no diretório
 $ cd pokedex
 * Instalar as dependências
