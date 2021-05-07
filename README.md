@@ -14,7 +14,7 @@ O projeto Labefy foi criado por mim no **curso de desenvolvimento full stack da 
 Trata-se de uma aplicação que permite criar, listar e deletar playlists.
 
  ## Deploy da Aplicação com Surge: :dash:
->
+><https://imminent-cent.surge.sh/>
 
 ## 📌Tecnologias utilizadas
 - React Js
