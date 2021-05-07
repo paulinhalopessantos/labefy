@@ -31,7 +31,7 @@ $ git clone https://github.com/paulinhalopessantos/labefy.git
 $ cd pokedex
 * Instalar as dependências
 $ npm install
-*Startar o projeto
+* Startar o projeto
 $ npm start
 ```
 ⚠ Abrirá uma Janela automaticamente no seu navegador na porta 3000. Caso isso não aconteça, digite <https://localhos:3000/> no seu navegador.
